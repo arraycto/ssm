@@ -1,5 +1,7 @@
 # 基于ssm电梯服务管理信息系统的设计与实现
 
+![f](https://github.com/beholder1234/PersonalOnlineSource/blob/main/PicGoUploadPicture/f.gif)
+
 ## 技术支持
 
 - 开发软件：Eclipse
@@ -97,16 +99,16 @@
 
 #### （3） 界面操作——登陆
 
-![f](https://gitee.com/beholder1234/PersonalOnlineSource/blob/master/PictureFromTypora/f.gif)
+![f](https://github.com/beholder1234/PersonalOnlineSource/blob/main/PicGoUploadPicture/f.gif)
 
 
 
 #### （4）界面操作——员工增删
 
-![f2](https://gitee.com/beholder1234/PersonalOnlineSource/raw/master/PictureFromTypora/f2.gif)
+![f2](https://github.com/beholder1234/PersonalOnlineSource/blob/main/PicGoUploadPicture/f2.gif)
 
 
 
 #### （5）界面操作——业务管理
 
-![f3](https://gitee.com/beholder1234/PersonalOnlineSource/raw/master/PictureFromTypora/f3.gif)
+![f3](https://github.com/beholder1234/PersonalOnlineSource/blob/main/PicGoUploadPicture/f3.gif)
