@@ -1,6 +1,6 @@
 # 基于ssm电梯服务管理信息系统的设计与实现
 
-![f](https://github.com/beholder1234/PersonalOnlineSource/blob/main/PicGoUploadPicture/f.gif)
+![f](https://gitee.com/beholder1234/PersonalOnlineSource/blob/master/PictureFromTypora/f.gif)
 
 ## 技术支持
 
